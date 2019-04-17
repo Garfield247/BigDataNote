@@ -10,5 +10,7 @@
 
     [04YARN简介.md](./01Hadoop/04YARN简介.md)
 
+    [05Hadoop集群配置.md](./01Hadoop/05Hadoop集群配置.md)
+
     [README.md](./README.md)
 
