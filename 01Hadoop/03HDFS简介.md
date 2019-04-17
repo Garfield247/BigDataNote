@@ -172,7 +172,7 @@ graph LR
 	subgraph 客户端JVM
 		A[HDFS<br/>Client]
 		B[Distributed<br/>FileSystem]
-		C[FSData<br/>OutputStream]
+		C[FSData<br/>InputStream]
     end
     subgraph NameNode
     D[NameNode]
